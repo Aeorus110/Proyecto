@@ -1,0 +1,3 @@
+Lectura de ejemplo para la Unidad 09
+Aula: A-01
+Temperatura: 21.4 °C

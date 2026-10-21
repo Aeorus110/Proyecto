@@ -1,0 +1,24 @@
+# Entorno de ejecución del curso
+# Python requerido: CPython 3.14.x
+#
+# Instalar desde un entorno virtual:
+#   python -m pip install --upgrade pip
+#   python -m pip install -r requirements.txt
+
+# Interfaz y kernel para abrir los cuadernos localmente.
+jupyterlab>=4.6,<5
+ipykernel>=7,<8
+
+# Ejemplos y comprobaciones incluidos en las unidades de Python.
+numpy>=2.0,<3
+pandas>=2.3,<3
+matplotlib>=3.10,<4
+seaborn>=0.13,<0.14
+# Requerido por seaborn.clustermap en la unidad 43.
+scipy>=1.14,<2
+pytest>=9,<10
+
+# La Fase 12 (TensorFlow/Keras) requiere Python 3.13.x: TensorFlow no ofrece
+# actualmente paquetes oficiales para Python 3.14. Instalar en el entorno
+# específico documentado en docs/entorno_tensorflow.md.
+tensorflow>=2.21,<2.22; python_version >= "3.10" and python_version < "3.14"
