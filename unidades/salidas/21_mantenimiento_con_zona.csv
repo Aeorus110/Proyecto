@@ -1,0 +1,5 @@
+estacion_id,zona,fecha_alta,responsable,orden_id,fecha_mantenimiento,tipo,horas_parada
+EST-01,Norte,2023-09-01,Equipo A,M-001,2025-01-05,preventivo,2
+EST-02,Centro,2023-10-15,Equipo B,M-002,2025-01-07,correctivo,5
+EST-02,Centro,2023-10-15,Equipo B,M-003,2025-02-03,preventivo,1
+EST-03,Sur,2024-01-10,Equipo A,M-004,2025-01-21,preventivo,2

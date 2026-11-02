@@ -1,0 +1,5 @@
+estacion_id,zona,fecha_alta,responsable
+EST-01,Norte,2023-09-01,Equipo A
+EST-02,Centro,2023-10-15,Equipo B
+EST-03,Sur,2024-01-10,Equipo A
+EST-04,Este,2024-06-20,Equipo C

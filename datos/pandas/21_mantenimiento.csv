@@ -1,0 +1,6 @@
+orden_id,estacion_id,fecha_mantenimiento,tipo,horas_parada
+M-001,EST-01,2025-01-05,preventivo,2
+M-002,EST-02,2025-01-07,correctivo,5
+M-003,EST-02,2025-02-03,preventivo,1
+M-004,EST-03,2025-01-21,preventivo,2
+M-005,EST-99,2025-02-10,correctivo,3
