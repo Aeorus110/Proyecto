@@ -1,0 +1,13 @@
+epoca,modelo,lote,perdida_validacion,exactitud_validacion,tiempo_s
+1,base,A,0.86,0.58,42
+2,base,A,0.73,0.64,41
+3,base,A,0.64,0.69,42
+4,base,A,0.59,0.72,43
+5,base,A,0.56,0.74,42
+6,base,A,0.54,0.75,43
+1,ajustado,B,0.81,0.60,46
+2,ajustado,B,0.66,0.68,47
+3,ajustado,B,0.55,0.74,46
+4,ajustado,B,0.49,0.78,48
+5,ajustado,B,0.45,0.80,47
+6,ajustado,B,0.43,0.81,48
