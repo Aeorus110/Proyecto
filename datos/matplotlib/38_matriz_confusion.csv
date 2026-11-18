@@ -1,0 +1,10 @@
+real,predicha,conteo
+A,A,16
+A,B,2
+A,C,1
+B,A,3
+B,B,12
+B,C,3
+C,A,1
+C,B,2
+C,C,15
